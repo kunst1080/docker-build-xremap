@@ -1,0 +1,3 @@
+[submodule "xremap"]
+	path = xremap
+	url = https://github.com/k0kubun/xremap
